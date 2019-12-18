@@ -1,4 +1,4 @@
-# Nomina
+# Nómina en JAVA con NetBeans
 Proyecto escolar desarrollado en JAVA y NetBeans de impresión de recibos de pagos de una nómina.
 
 ## Funcionamiento
